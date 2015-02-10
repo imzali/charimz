@@ -1,0 +1,10 @@
+temel git komutları
+
+git init
+git status
+git add .
+git commit
+git commit -m "..mesaj.."
+git log
+git remote add github https://github.com/imzali/charimz.git
+git push github master
